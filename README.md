@@ -23,7 +23,7 @@ cd .\photo_search_app\
 npm install
 npm start
 ```
-
+If the page does not popup right away you can click [here](http://localhost:3000/)
 ## Usage
 
 App will start with 10 photos on the homepage by default. User can move to next and previous page using existing buttons.
