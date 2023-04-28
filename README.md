@@ -16,7 +16,7 @@ npm start
 ```
 This will start the server which masks the API key
 
-To start the React project:
+To start the React project on a seperate terminal run:
 
 ```bash
 cd .\photo_search_app\
