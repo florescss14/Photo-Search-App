@@ -1,1 +1,1 @@
-export const API_KEY = 'm668Qm0AnTlD6IEuXP3is8FeUjAI2FIievaOFilCOEVCPqqr5HejMfdk';
+export const API_KEY = 'my_pexel_api_key';

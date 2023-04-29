@@ -9,6 +9,12 @@ The app is a React frontend with a Node.js backend which is used to retireve API
 Need npm installed to run.
 
 To start the server:
+open the file called secrets.js inside the ./server dir.
+
+```export const API_KEY = 'my_pexel_api_key';```
+
+replace the value with your pexel API key that you can register for at (https://www.pexels.com/onboarding)
+
 Start in home directory and run
 ```bash
 npm install
